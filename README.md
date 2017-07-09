@@ -1,4 +1,4 @@
-# index
+# Index
 
 ## Thing I made using React and Redux
 1. [Redux Counter: The hello world of redux](https://github.com/joelbandi/redux-counter)
